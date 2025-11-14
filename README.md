@@ -110,3 +110,4 @@ URL : http://public-ip:port/
 
 	
 # Step - 10 : After your practise, delete resources we have used in AWS Cloud to avoid billing ##
+hows
